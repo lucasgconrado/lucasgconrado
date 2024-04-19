@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasgconrado, from 00s, a eternal student
-- 👀 I’m interested in learning new technologies and envolving in the I.T area
-- 🌱 I’m currently learning node.js and react
+- 👀 I’m interested in learning new technologies, cloud, aws
+- 🌱 I’m currently working as a back-end python developer
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me:
 - 📦 Email: lucas10.gcb@gmail.com
